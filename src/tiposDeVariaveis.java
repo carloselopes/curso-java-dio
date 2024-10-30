@@ -1,6 +1,5 @@
 public class tiposDeVariaveis {
     public static void main(String[] args) throws Exception {
-
         //AULA 1 - TIPOS E VARIAVEIS
         byte numberByte = 126; //range -128 at 127
         short numberShort = 32766; //range -32.768 at 32.767
