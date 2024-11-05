@@ -20,6 +20,7 @@ public class operadores {
         numero--; //drecrementa 1 ao numero
         System.out.println(numero);
         System.out.println(numero);
+        System.out.println(numero);
 
         int a, b;
         a = 5;
